@@ -1,5 +1,5 @@
 [package]
-name = "rust-todo"
+name = "rustodocli"
 version = "0.1.0"
 authors = ["Thiti Dev <thiti.mwk.main@gmail.com>"]
 edition = "2018"

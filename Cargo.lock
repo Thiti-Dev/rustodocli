@@ -255,7 +255,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-todo"
+name = "rustodocli"
 version = "0.1.0"
 dependencies = [
  "chrono",
