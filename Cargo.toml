@@ -1,0 +1,11 @@
+[package]
+name = "rust-todo"
+version = "0.1.0"
+authors = ["Thiti Dev <thiti.mwk.main@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4"
+prettytable-rs = "^0.8"
