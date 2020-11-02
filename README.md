@@ -1,6 +1,6 @@
 ## 🐍 rust-todo-cli aka rustodocli
 
-Just a simple todo cli program for managing the tasks that has to be done
+Just a simple todo CLI program for managing the tasks that have to be done
 
 
 ### ⌛ (Status) still in development
